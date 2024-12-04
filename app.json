@@ -30,7 +30,7 @@
     },
     "CODE": {
       "description": "Enter your country code without +. Example: 254 for Kenya. This will allow bot to detect and remove foreigners if commanded",
-      "value": "254",
+      "value": "62",
       "required": true
     },
     "STICKER_AUTHOR": {
