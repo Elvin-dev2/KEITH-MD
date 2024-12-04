@@ -5,7 +5,7 @@ You don't have to set this if you deploy using heroku because you can simply set
 
 const session = process.env.SESSION || '';
 
-const prefix = process.env.PREFIX || '';
+const prefix = process.env.PREFIX || '.';
 const mycode = process.env.CODE || "62";
 const author = process.env.STICKER_AUTHOR || '\n\n\n\n\nCreate by Wang Lin - Bot WhatsApp \nNo hape/wa : 6282155797324';
 const packname = process.env.PACKNAME || 'Sticker By';
